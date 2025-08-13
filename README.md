@@ -12,8 +12,8 @@ This is a .NET 9 Web API for managing companies using Clean Architecture.
 
 ### Using the Terminal
 
-1. **Restore dependencies:**
-2. **Run the API:**
+1. **Restore dependencies:** dotnet restore
+2. **Run the API:** dotnet run --project CompanyManagement.API
 3. **Access the API:**
 - Open your browser and navigate to [https://localhost:7125/swagger](https://localhost:7125/swagger) or the URL shown in the terminal.
 
@@ -39,3 +39,4 @@ This is a .NET 9 Web API for managing companies using Clean Architecture.
 ---
 
 Feel free to contribute or open issues!
+
