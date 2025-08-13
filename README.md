@@ -26,23 +26,24 @@ dotnet run --project CompanyManagement.API
 Once running, open:
 👉 https://localhost:7125/swagger (or the URL shown in your terminal)
 
-From ** Visual Studio 2022 **
+## ** From Visual Studio 2022 **
 Open the solution in Visual Studio.
 
 1. Set CompanyManagement.API as the startup project.
 2. Press F5 (Debug) or Ctrl+F5 (Run without debugging).
 3. The Swagger UI should open automatically. If not, navigate to /swagger in your browser.
 
-📝 Notes
+## **📝 Notes**
 No SQL Server needed — all data is stored in-memory and will be lost when the app stops.
 API endpoints & documentation are available via Swagger UI at /swagger.
 
-📂 Project Structure
+## ** 📂 Project Structure **
 
 CompanyManagement.API             → Web API project
 CompanyManagement.Application     → Application layer (business logic)
 CompanyManagement.Domain          → Domain entities & interfaces
 CompanyManagement.Infrastructure  → Infrastructure & data access (in-memory DB)
 
-🤝 Contributing
+## ** 🤝 Contributing **
 Pull requests and issues are welcome!
+
