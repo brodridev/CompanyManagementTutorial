@@ -12,7 +12,7 @@ A **.NET 9 Web API** for managing companies, built with **Clean Architecture** p
 
 ---
 
-## **▶️ Running the API**
+##**▶️ Running the API**
 
 ### **From the Terminal**
 ```bash
@@ -46,4 +46,5 @@ CompanyManagement.Infrastructure  → Infrastructure & data access (in-memory DB
 
 ## ** 🤝 Contributing **
 Pull requests and issues are welcome!
+
 
