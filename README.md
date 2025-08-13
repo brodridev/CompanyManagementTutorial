@@ -34,7 +34,7 @@ Open the solution in Visual Studio.
 ---
  Once running, open:
 👉 https://localhost:7125/swagger (or the URL shown in your terminal)
----
+
 ## **📝 Notes**
 No SQL Server needed — all data is stored in-memory and will be lost when the app stops.
 API endpoints & documentation are available via Swagger UI at /swagger.
@@ -48,6 +48,7 @@ CompanyManagement.Infrastructure  → Infrastructure & data access (in-memory DB
 
 ## ** 🤝 Contributing **
 Pull requests and issues are welcome!
+
 
 
 
